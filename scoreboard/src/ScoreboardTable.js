@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom';
 import GameStatus from './GameStatus';
 
 let intervalId = null;
-localStorage.clear();
+//localStorage.clear();
 const ScoreboardTable = (props) => {
 
     //CONSTRUCTORS
